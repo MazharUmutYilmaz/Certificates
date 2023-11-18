@@ -41,3 +41,4 @@ This repository shows received certificates.
 | 35 | Strategic Technical Analysis | Borfin | Forever |
 | 36 | Designing Algorithmic Trading Robots | Borfin | Forever |
 | 37 | Strategic Technical Analysis | Borfin | Forever |
+| 37 | IELTS Academic | British Council & IDP Education | Valid until 05/07/2025 |
