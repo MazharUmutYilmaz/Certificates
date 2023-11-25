@@ -28,18 +28,20 @@ This repository shows received certificates.
 | 22 | Unsupervised Learning in Python | Datacamp | Forever |
 | 23 | Machine Learning with Tree-Based Models in Python | Datacamp | Forever |
 | 24 | Intermediate Importing Data in Python | Datacamp | Forever |
-| 25 | Introduction to Python for Finance | Datacamp | Forever |
-| 26 | Intermediate Python for Finance | Datacamp | Forever |
-| 27 | Introduction to Financial Concepts in Python | Datacamp | Forever |
-| 28 | Manipulating Time Series Data in Python | Datacamp | Forever |
-| 29 | Importing and Managing Financial Data in Python | Datacamp | Forever |
-| 30 | Introduction to Portfolio Analysis in Python | Datacamp | Forever |
-| 31 | McKinsey Forward Program | McKinsey & Company | Forever |
-| 32 | Introduction to Business Management | FutureLearn | Forever |
-| 33 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
-| 34 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
-| 35 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
-| 36 | Strategic Technical Analysis | Borfin | Forever |
-| 37 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| 25 | Preprocessing for Machine Learning in Python | Datacamp | Forever |
+| 26 | Developing Python Packages | Datacamp | Forever |
+| 27 | Introduction to Python for Finance | Datacamp | Forever |
+| 28 | Intermediate Python for Finance | Datacamp | Forever |
+| 29 | Introduction to Financial Concepts in Python | Datacamp | Forever |
+| 30 | Manipulating Time Series Data in Python | Datacamp | Forever |
+| 31 | Importing and Managing Financial Data in Python | Datacamp | Forever |
+| 32 | Introduction to Portfolio Analysis in Python | Datacamp | Forever |
+| 33 | McKinsey Forward Program | McKinsey & Company | Forever |
+| 34 | Introduction to Business Management | FutureLearn | Forever |
+| 35 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
+| 36 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
+| 37 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
 | 38 | Strategic Technical Analysis | Borfin | Forever |
-| 39 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| 39 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| 40 | Strategic Technical Analysis | Borfin | Forever |
+| 41 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
