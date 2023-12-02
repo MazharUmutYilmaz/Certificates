@@ -4,6 +4,7 @@ This repository shows received certificates.
 
 | # | Name of the Certificate | Organization | Validity | 
 | --- | --- | --- | --- |
+| [Data Scientist Professional with Python](https://www.datacamp.com/tracks/data-scientist-professional-with-python) - START | --- | --- | --- |
 | 1 | Introduction to Python | Datacamp | Forever |
 | 2 | Intermediate Python | Datacamp | Forever |
 | 3 | Data Manipulation with pandas | Datacamp | Forever |
@@ -33,18 +34,27 @@ This repository shows received certificates.
 | 27 | Machine Learning for Business | Datacamp | Forever |
 | 28 | Introduction to SQL | Datacamp | Forever |
 | 29 | Intermediate SQL | Datacamp | Forever |
+| 30 | Joining Data in SQL | Datacamp | Forever |
+| 31 | Introduction to Git | Datacamp | Forever |
+| Data Scientist Professional with Python - END | --- | --- | --- |
+| [Finance Fundamentals in Python](https://www.datacamp.com/tracks/finance-fundamentals-in-python) - START | --- | --- | --- |
 | 30 | Introduction to Python for Finance | Datacamp | Forever |
 | 31 | Intermediate Python for Finance | Datacamp | Forever |
 | 32 | Introduction to Financial Concepts in Python | Datacamp | Forever |
 | 33 | Manipulating Time Series Data in Python | Datacamp | Forever |
 | 34 | Importing and Managing Financial Data in Python | Datacamp | Forever |
 | 35 | Introduction to Portfolio Analysis in Python | Datacamp | Forever |
-| 36 | McKinsey Forward Program | McKinsey & Company | Forever |
-| 37 | Introduction to Business Management | FutureLearn | Forever |
-| 38 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
-| 39 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
-| 40 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
-| 41 | Strategic Technical Analysis | Borfin | Forever |
-| 42 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| Finance Fundamentals in Python - END | --- | --- | --- |
+| [Python Programmer](https://www.datacamp.com/tracks/python-programmer) - START | --- | --- | --- |
+| 36 | Data Types for Data Science in Python | Datacamp | Forever |
+| 37 | Writing Efficient Python Code | Datacamp | Forever |
+| Python Programmer - END | --- | --- | --- |
+| 38 | McKinsey Forward Program | McKinsey & Company | Forever |
+| 39 | Introduction to Business Management | FutureLearn | Forever |
+| 40 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
+| 41 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
+| 42 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
 | 43 | Strategic Technical Analysis | Borfin | Forever |
-| 44 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| 44 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| 45 | Strategic Technical Analysis | Borfin | Forever |
+| 46 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
