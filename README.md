@@ -4,7 +4,7 @@ This repository shows received certificates.
 
 | # | Name of the Certificate | Organization | Validity | 
 | --- | --- | --- | --- |
-| [Data Scientist Professional with Python](https://www.datacamp.com/tracks/data-scientist-professional-with-python) - START | --- | --- | --- |
+|  | [Data Scientist Professional with Python](https://www.datacamp.com/tracks/data-scientist-professional-with-python) - START | --- | --- |
 | 1 | Introduction to Python | Datacamp | Forever |
 | 2 | Intermediate Python | Datacamp | Forever |
 | 3 | Data Manipulation with pandas | Datacamp | Forever |
