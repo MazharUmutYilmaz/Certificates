@@ -4,7 +4,7 @@ This repository shows received certificates.
 
 | # | Name of the Certificate | Organization | Validity | 
 | --- | --- | --- | --- |
-|  | [Data Scientist Professional with Python](https://www.datacamp.com/tracks/data-scientist-professional-with-python) - START | --- | --- |
+| CAREER TRACK | [Data Scientist Professional with Python](https://www.datacamp.com/tracks/data-scientist-professional-with-python) - START | Datacamp | Forever |
 | 1 | Introduction to Python | Datacamp | Forever |
 | 2 | Intermediate Python | Datacamp | Forever |
 | 3 | Data Manipulation with pandas | Datacamp | Forever |
@@ -36,19 +36,19 @@ This repository shows received certificates.
 | 29 | Intermediate SQL | Datacamp | Forever |
 | 30 | Joining Data in SQL | Datacamp | Forever |
 | 31 | Introduction to Git | Datacamp | Forever |
-| Data Scientist Professional with Python - END | --- | --- | --- |
-| [Finance Fundamentals in Python](https://www.datacamp.com/tracks/finance-fundamentals-in-python) - START | --- | --- | --- |
+| CAREER TRACK | Data Scientist Professional with Python - END | Datacamp | Forever |
+| SKILL TRACK | [Finance Fundamentals in Python](https://www.datacamp.com/tracks/finance-fundamentals-in-python) - START | Datacamp | Forever |
 | 32 | Introduction to Python for Finance | Datacamp | Forever |
 | 33 | Intermediate Python for Finance | Datacamp | Forever |
 | 34 | Introduction to Financial Concepts in Python | Datacamp | Forever |
 | 35 | Manipulating Time Series Data in Python | Datacamp | Forever |
 | 36 | Importing and Managing Financial Data in Python | Datacamp | Forever |
 | 37 | Introduction to Portfolio Analysis in Python | Datacamp | Forever |
-| Finance Fundamentals in Python - END | --- | --- | --- |
-| [Python Programmer](https://www.datacamp.com/tracks/python-programmer) - START | --- | --- | --- |
+| SKILL TRACK | Finance Fundamentals in Python - END | Datacamp | Forever |
+| CAREER TRACK | [Python Programmer](https://www.datacamp.com/tracks/python-programmer) - START | Datacamp | Forever |
 | 38 | Data Types for Data Science in Python | Datacamp | Forever |
 | 39 | Writing Efficient Python Code | Datacamp | Forever |
-| Python Programmer - END | --- | --- | --- |
+| CAREER TRACK | Python Programmer - END | Datacamp | Forever |
 | 40 | McKinsey Forward Program | McKinsey & Company | Forever |
 | 41 | Introduction to Business Management | FutureLearn | Forever |
 | 42 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
