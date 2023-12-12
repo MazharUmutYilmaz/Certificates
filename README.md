@@ -49,13 +49,17 @@ This repository shows received certificates.
 | 38 | Data Types for Data Science in Python | Datacamp | Forever |
 | 39 | Writing Efficient Python Code | Datacamp | Forever |
 | 40 | Regular Expressions in Python | Datacamp | Forever |
+| 41 | Web Scraping in Python | Datacamp | Forever |
+| 42 | Data Structures and Algorithms in Python | Datacamp | Forever |
+| 43 | Introduction to Shell | Datacamp | Forever |
+| 44 | Software Engineering Principles in Python | Datacamp | Forever |
 | CAREER TRACK | Python Programmer - END | Datacamp | Forever |
-| 41 | McKinsey Forward Program | McKinsey & Company | Forever |
-| 42 | Introduction to Business Management | FutureLearn | Forever |
-| 43 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
-| 44 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
-| 45 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
-| 46 | Strategic Technical Analysis | Borfin | Forever |
-| 47 | Designing Algorithmic Trading Robots | Borfin | Forever |
-| 48 | Strategic Technical Analysis | Borfin | Forever |
-| 49 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| 45 | McKinsey Forward Program | McKinsey & Company | Forever |
+| 46 | Introduction to Business Management | FutureLearn | Forever |
+| 47 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
+| 48 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
+| 49 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
+| 50 | Strategic Technical Analysis | Borfin | Forever |
+| 51 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| 52 | Strategic Technical Analysis | Borfin | Forever |
+| 53 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
