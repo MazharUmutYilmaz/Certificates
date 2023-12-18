@@ -56,7 +56,7 @@ This repository shows received certificates.
 | 45 | Unit Testing for Data Science in Python | Datacamp | Forever |
 | 46 | Object-Oriented Programming in Python | Datacamp | Forever |
 | CAREER TRACK | Python Developer - END | Datacamp | Forever |
-| SKILL TRACK | [Python Programming](https://app.datacamp.com/learn/skill-tracks/python-programming) - START | Datacamp | Forever |
+| SKILL TRACK | [Python Programming](https://www.datacamp.com/tracks/python-programming) - START | Datacamp | Forever |
 | 47 | Writing Efficient Code with pandas | Datacamp | Forever |
 | SKILL TRACK | Python Programming - END | Datacamp | Forever |
 | 48 | McKinsey Forward Program | McKinsey & Company | Forever |
