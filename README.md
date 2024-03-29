@@ -62,12 +62,15 @@ This repository shows received certificates.
 | SKILL TRACK | [Statistics Fundamentals with Python](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) - START | Datacamp | Forever |
 | 48 | Intermediate Regression with statsmodels in Python | Datacamp | Forever |
 | SKILL TRACK | Statistics Fundamentals with Python - END | Datacamp | Forever |
-| 49 | McKinsey Forward Program | McKinsey & Company | Forever |
-| 50 | Introduction to Business Management | FutureLearn | Forever |
-| 51 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
-| 52 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
-| 53 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
-| 54 | Strategic Technical Analysis | Borfin | Forever |
-| 55 | Designing Algorithmic Trading Robots | Borfin | Forever |
-| 56 | Strategic Technical Analysis | Borfin | Forever |
-| 57 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| COURSE | [Statistics Fundamentals with Python](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) - START | Datacamp | Forever |
+| 49 | Financial Trading in Python | Datacamp | Forever |
+| COURSE | Statistics Fundamentals with Python - END | Datacamp | Forever |
+| 50 | McKinsey Forward Program | McKinsey & Company | Forever |
+| 51 | Introduction to Business Management | FutureLearn | Forever |
+| 52 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
+| 53 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
+| 54 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
+| 55 | Strategic Technical Analysis | Borfin | Forever |
+| 56 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| 57 | Strategic Technical Analysis | Borfin | Forever |
+| 58 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
