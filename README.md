@@ -73,4 +73,6 @@ This repository shows received certificates.
 | 55 | Strategic Technical Analysis | Borfin | Forever |
 | 56 | Designing Algorithmic Trading Robots | Borfin | Forever |
 | 57 | Strategic Technical Analysis | Borfin | Forever |
-| 58 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| 58 | Metastock Language to Make Formula Writing Easier | Borfin | Forever |
+| 59 | What do candlestick patterns tell us? | Borfin | Forever |
+| 60 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
