@@ -62,17 +62,17 @@ This repository shows received certificates.
 | SKILL TRACK | [Statistics Fundamentals with Python](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) - START | Datacamp | Forever |
 | 48 | Intermediate Regression with statsmodels in Python | Datacamp | Forever |
 | SKILL TRACK | Statistics Fundamentals with Python - END | Datacamp | Forever |
-| COURSE | [Statistics Fundamentals with Python](https://www.datacamp.com/tracks/statistics-fundamentals-with-python) - START | Datacamp | Forever |
 | 49 | Financial Trading in Python | Datacamp | Forever |
-| COURSE | Statistics Fundamentals with Python - END | Datacamp | Forever |
-| 50 | McKinsey Forward Program | McKinsey & Company | Forever |
-| 51 | Introduction to Business Management | FutureLearn | Forever |
-| 52 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
-| 53 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
-| 54 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
-| 55 | Strategic Technical Analysis | Borfin | Forever |
-| 56 | Designing Algorithmic Trading Robots | Borfin | Forever |
-| 57 | Strategic Technical Analysis | Borfin | Forever |
-| 58 | Metastock Language to Make Formula Writing Easier | Borfin | Forever |
-| 59 | What do candlestick patterns tell us? | Borfin | Forever |
-| 60 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| 50 | Quantitative Risk Management in Python | Datacamp | Forever |
+| 51 | McKinsey Forward Program | McKinsey & Company | Forever |
+| 52 | Introduction to Business Management | FutureLearn | Forever |
+| 53 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
+| 54 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
+| 55 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
+| 56 | Strategic Technical Analysis | Borfin | Forever |
+| 57 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| 58 | Strategic Technical Analysis | Borfin | Forever |
+| 59 | Metastock Language to Make Formula Writing Easier | Borfin | Forever |
+| 60 | What do candlestick patterns tell us? | Borfin | Forever |
+| 61 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
+| 62 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
