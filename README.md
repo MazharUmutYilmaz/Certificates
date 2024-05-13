@@ -64,15 +64,16 @@ This repository shows received certificates.
 | SKILL TRACK | Statistics Fundamentals with Python - END | Datacamp | Forever |
 | 49 | Financial Trading in Python | Datacamp | Forever |
 | 50 | Quantitative Risk Management in Python | Datacamp | Forever |
-| 51 | McKinsey Forward Program | McKinsey & Company | Forever |
-| 52 | Introduction to Business Management | FutureLearn | Forever |
-| 53 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
-| 54 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
-| 55 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
-| 56 | Strategic Technical Analysis | Borfin | Forever |
-| 57 | Designing Algorithmic Trading Robots | Borfin | Forever |
-| 58 | Strategic Technical Analysis | Borfin | Forever |
-| 59 | Metastock Language to Make Formula Writing Easier | Borfin | Forever |
-| 60 | What do candlestick patterns tell us? | Borfin | Forever |
-| 61 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
-| 62 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| 51 | GARCH Models in Python | Datacamp | Forever |
+| 52 | McKinsey Forward Program | McKinsey & Company | Forever |
+| 53 | Introduction to Business Management | FutureLearn | Forever |
+| 54 | Entrepreneurship: From Business Idea to Action | FutureLearn | Forever |
+| 55 | Digital Skills: Embracing Digital Technology | FutureLearn | Forever |
+| 56 | Complete Fundamental Analysis and Valuation for Investors | Borfin | Forever |
+| 57 | Strategic Technical Analysis | Borfin | Forever |
+| 58 | Designing Algorithmic Trading Robots | Borfin | Forever |
+| 59 | Strategic Technical Analysis | Borfin | Forever |
+| 60 | Metastock Language to Make Formula Writing Easier | Borfin | Forever |
+| 61 | What do candlestick patterns tell us? | Borfin | Forever |
+| 62 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
+| 63 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
