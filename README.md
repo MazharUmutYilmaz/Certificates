@@ -76,4 +76,4 @@ This repository shows received certificates.
 | 60 | Metastock Language to Make Formula Writing Easier | Borfin | Forever |
 | 61 | What do candlestick patterns tell us? | Borfin | Forever |
 | 62 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
-| 63 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Valid until 05/07/2025 |
+| 63 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | 
