@@ -75,5 +75,7 @@ This repository shows received certificates.
 | 59 | Strategic Technical Analysis | Borfin | Forever |
 | 60 | Metastock Language to Make Formula Writing Easier | Borfin | Forever |
 | 61 | What do candlestick patterns tell us? | Borfin | Forever |
-| 62 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
-| 63 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | 
+| 62 | Stock Investment Strategies with PEG Ratio | Borfin | Forever |
+| 63 | Dupont Analysis: Key in Stock Selection | Borfin | Forever |
+| 64 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
+| 65 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Job is in English |
