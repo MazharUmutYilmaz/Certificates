@@ -77,5 +77,6 @@ This repository shows received certificates.
 | 61 | What do candlestick patterns tell us? | Borfin | Forever |
 | 62 | Stock Investment Strategies with PEG Ratio | Borfin | Forever |
 | 63 | Dupont Analysis: Key in Stock Selection | Borfin | Forever |
-| 64 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
-| 65 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Job is in English |
+| 64 | The Hidden Side of the Price-to-Book Ratio | Borfin | Forever |
+| 65 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
+| 66 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Job is in English |
