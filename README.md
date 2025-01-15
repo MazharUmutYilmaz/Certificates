@@ -81,3 +81,4 @@ This repository shows received certificates.
 | 65 | Financial Modeling for Stock Selection | Borfin | Forever |
 | 66 | Using DOORS NEXT for Requirement Management | PROYA | Forever |
 | 67 | IELTS Academic - CEFR Level : B2 | British Council & IDP Education | Job is in English |
+| 68 | TELC - CEFR Level : B2 | Das Akademie | Forever |
